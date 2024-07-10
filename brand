@@ -1,0 +1,52 @@
+[
+    {
+        "ProductName": "Organic Bamboo Cutting Board",
+        "GraphicName": "cutting_board.jpg",
+        "CostPrice": 12.99,
+        "MSRP": 24.99,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 20,
+        "Description": "High-quality, eco-friendly bamboo cutting board perfect for all kitchen tasks.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Wireless Bluetooth Headphones",
+        "GraphicName": "headphones.jpg",
+        "CostPrice": 39.99,
+        "MSRP": 79.99,
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 15,
+        "Description": "Comfortable wireless Bluetooth headphones with superior sound quality.",
+        "Brand": "TechTrends"
+    },
+    {
+        "ProductName": "Ergonomic Office Chair",
+        "GraphicName": "office_chair.jpg",
+        "CostPrice": 120.00,
+        "MSRP": 250.00,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 10,
+        "Description": "Ergonomic office chair with lumbar support and adjustable height for ultimate comfort.",
+        "Brand": "ComfortLiving"
+    },
+    {
+        "ProductName": "Reusable Silicone Food Storage Bags",
+        "GraphicName": "storage_bags.jpg",
+        "CostPrice": 15.99,
+        "MSRP": 29.99,
+        "QtyOnHand": 300,
+        "QtyOnBackOrder": 25,
+        "Description": "Eco-friendly reusable silicone bags for food storage, perfect for reducing plastic waste.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Portable Solar Charger",
+        "GraphicName": "solar_charger.jpg",
+        "CostPrice": 25.99,
+        "MSRP": 49.99,
+        "QtyOnHand": 120,
+        "QtyOnBackOrder": 30,
+        "Description": "Portable solar charger for all your electronic devices, ideal for outdoor activities.",
+        "Brand": "TechTrends"
+    }
+]
