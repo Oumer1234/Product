@@ -20,33 +20,33 @@
         "Brand": "EcoWare"
     },
     {
-        "ProductName": "Eco-Friendly Beeswax Wraps",
-        "GraphicName": "beeswax_wraps.jpg",
+        "ProductName": "Stainless Steel Water Bottle",
+        "GraphicName": "water_bottle.jpg",
+        "CostPrice": 18.99,
+        "MSRP": 34.99,
+        "QtyOnHand": 250,
+        "QtyOnBackOrder": 40,
+        "Description": "Durable stainless steel water bottle with a leak-proof cap.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Biodegradable Trash Bags",
+        "GraphicName": "trash_bags.jpg",
         "CostPrice": 9.99,
         "MSRP": 19.99,
+        "QtyOnHand": 400,
+        "QtyOnBackOrder": 50,
+        "Description": "Eco-friendly biodegradable trash bags, strong and durable.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Solar-Powered Garden Lights",
+        "GraphicName": "garden_lights.jpg",
+        "CostPrice": 29.99,
+        "MSRP": 59.99,
         "QtyOnHand": 100,
         "QtyOnBackOrder": 10,
-        "Description": "Sustainable beeswax wraps for keeping your food fresh without plastic.",
-        "Brand": "EcoWare"
-    },
-    {
-        "ProductName": "Compostable Plant-Based Plates",
-        "GraphicName": "compostable_plates.jpg",
-        "CostPrice": 14.99,
-        "MSRP": 29.99,
-        "QtyOnHand": 200,
-        "QtyOnBackOrder": 15,
-        "Description": "Biodegradable plant-based plates, perfect for eco-friendly parties and events.",
-        "Brand": "EcoWare"
-    },
-    {
-        "ProductName": "Bamboo Toothbrush Set",
-        "GraphicName": "bamboo_toothbrush.jpg",
-        "CostPrice": 7.99,
-        "MSRP": 14.99,
-        "QtyOnHand": 250,
-        "QtyOnBackOrder": 20,
-        "Description": "Eco-friendly bamboo toothbrush set, reducing plastic waste in oral care.",
+        "Description": "Energy-efficient solar-powered garden lights for beautiful outdoor lighting.",
         "Brand": "EcoWare"
     },
     {
@@ -70,33 +70,33 @@
         "Brand": "TechTrends"
     },
     {
-        "ProductName": "Smart Home Security Camera",
-        "GraphicName": "security_camera.jpg",
-        "CostPrice": 55.99,
-        "MSRP": 109.99,
-        "QtyOnHand": 80,
-        "QtyOnBackOrder": 10,
-        "Description": "Smart home security camera with motion detection and night vision.",
-        "Brand": "TechTrends"
-    },
-    {
-        "ProductName": "Wireless Charging Pad",
-        "GraphicName": "charging_pad.jpg",
-        "CostPrice": 19.99,
-        "MSRP": 39.99,
-        "QtyOnHand": 150,
-        "QtyOnBackOrder": 20,
-        "Description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
-        "Brand": "TechTrends"
-    },
-    {
-        "ProductName": "Noise Cancelling Earbuds",
-        "GraphicName": "earbuds.jpg",
-        "CostPrice": 29.99,
-        "MSRP": 59.99,
+        "ProductName": "Smart Fitness Tracker",
+        "GraphicName": "fitness_tracker.jpg",
+        "CostPrice": 49.99,
+        "MSRP": 99.99,
         "QtyOnHand": 180,
         "QtyOnBackOrder": 25,
-        "Description": "Wireless noise cancelling earbuds with high-quality sound and long battery life.",
+        "Description": "Smart fitness tracker with heart rate monitor and step counter.",
+        "Brand": "TechTrends"
+    },
+    {
+        "ProductName": "4K Action Camera",
+        "GraphicName": "action_camera.jpg",
+        "CostPrice": 89.99,
+        "MSRP": 199.99,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 20,
+        "Description": "Capture stunning 4K video with this compact and durable action camera.",
+        "Brand": "TechTrends"
+    },
+    {
+        "ProductName": "Wireless Earbuds",
+        "GraphicName": "wireless_earbuds.jpg",
+        "CostPrice": 29.99,
+        "MSRP": 59.99,
+        "QtyOnHand": 300,
+        "QtyOnBackOrder": 35,
+        "Description": "Compact and comfortable wireless earbuds with excellent sound quality.",
         "Brand": "TechTrends"
     },
     {
@@ -114,9 +114,9 @@
         "GraphicName": "mattress.jpg",
         "CostPrice": 299.99,
         "MSRP": 599.99,
-        "QtyOnHand": 60,
-        "QtyOnBackOrder": 15,
-        "Description": "Comfortable memory foam mattress with cooling gel for a restful night's sleep.",
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 5,
+        "Description": "Comfortable memory foam mattress with cooling gel layer.",
         "Brand": "ComfortLiving"
     },
     {
@@ -124,29 +124,29 @@
         "GraphicName": "standing_desk.jpg",
         "CostPrice": 199.99,
         "MSRP": 399.99,
-        "QtyOnHand": 90,
-        "QtyOnBackOrder": 10,
-        "Description": "Adjustable standing desk for a healthier work environment.",
+        "QtyOnHand": 60,
+        "QtyOnBackOrder": 15,
+        "Description": "Adjustable standing desk for a healthier and more productive workspace.",
         "Brand": "ComfortLiving"
     },
     {
-        "ProductName": "Luxury Recliner Chair",
-        "GraphicName": "recliner_chair.jpg",
-        "CostPrice": 250.00,
-        "MSRP": 500.00,
-        "QtyOnHand": 50,
-        "QtyOnBackOrder": 5,
-        "Description": "Luxury recliner chair with massage function and heat therapy.",
+        "ProductName": "Reclining Sofa",
+        "GraphicName": "sofa.jpg",
+        "CostPrice": 499.99,
+        "MSRP": 999.99,
+        "QtyOnHand": 20,
+        "QtyOnBackOrder": 2,
+        "Description": "Luxurious reclining sofa with plush cushions and durable fabric.",
         "Brand": "ComfortLiving"
     },
     {
-        "ProductName": "Orthopedic Memory Foam Pillow",
-        "GraphicName": "pillow.jpg",
-        "CostPrice": 29.99,
-        "MSRP": 59.99,
-        "QtyOnHand": 200,
-        "QtyOnBackOrder": 30,
-        "Description": "Orthopedic memory foam pillow for better neck and spine support.",
+        "ProductName": "Bamboo Bed Sheets",
+        "GraphicName": "bed_sheets.jpg",
+        "CostPrice": 59.99,
+        "MSRP": 119.99,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 20,
+        "Description": "Soft and breathable bamboo bed sheets for a comfortable sleep.",
         "Brand": "ComfortLiving"
     }
 ]
